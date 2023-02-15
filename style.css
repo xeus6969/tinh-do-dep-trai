@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+#calculate-button {
+  background-color: lightblue;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+#result {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+#point {
+  font-weight: bold;
+}
