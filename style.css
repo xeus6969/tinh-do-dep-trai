@@ -25,3 +25,7 @@ h1 {
 #point {
   font-weight: bold;
 }
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+</style>
