@@ -15,6 +15,19 @@ h1 {
   border: none;
   cursor: pointer;
   margin-top: 50px;
+
+  /* Dark Mode Button Styles */
+.dark-mode-button {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-family: 'Material Symbols Outlined', sans-serif;
+  font-weight: 700;
+}
 }
 
 #result {
